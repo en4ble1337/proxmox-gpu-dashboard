@@ -41,7 +41,7 @@ Before installing this mod, ensure you have the following:
 - **LXC passthrough configured** - This mod is designed for LXC container GPU passthrough, not VM passthrough
 
 > **Note:** If you need help setting up NVIDIA GPU passthrough for LXC containers, refer to this guide:
-> https://github.com/en4ble1337/proxmox-tools/blob/main/proxmox-9.0-5090.md
+> https://github.com/en4ble1337/GPU-Passthrough-for-Proxmox-LXC-Container
 
 ---
 
@@ -351,3 +351,4 @@ See [CHANGELOG.md](CHANGELOG.md) for detailed version history.
 
 **Current Version:** v3.0
 **Last Updated:** 2025-12-26
+
