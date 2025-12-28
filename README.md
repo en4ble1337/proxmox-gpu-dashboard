@@ -331,7 +331,7 @@ Contributions are welcome. Please:
 
 ## License
 
-This project is provided as-is under the MIT License. See LICENSE file for details.
+This project is provided as-is under the MIT License. See [LICENSE](https://github.com/en4ble1337/proxmox-gpu-dashboard/blob/main/LICENSE.md) file for details.
 
 ---
 
@@ -351,4 +351,5 @@ See [CHANGELOG.md](CHANGELOG.md) for detailed version history.
 
 **Current Version:** v3.0
 **Last Updated:** 2025-12-26
+
 
