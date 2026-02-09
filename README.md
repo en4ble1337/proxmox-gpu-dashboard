@@ -111,7 +111,7 @@ Best for users who want comprehensive GPU monitoring with historical trend data.
 
 1. **Download the script:**
    ```bash
-   wget https://raw.githubusercontent.com/en4ble1337/pve-gpu-dashboard/main/pve-gpu-dashboard-mod_v1.7.sh
+   wget https://raw.githubusercontent.com/en4ble1337/proxmox-gpu-dashboard/main/pve-gpu-dashboard-mod_v1.7.sh
    chmod +x pve-gpu-dashboard-mod_v1.7.sh
    ```
 
@@ -130,7 +130,7 @@ Best for users who want comprehensive GPU monitoring with historical trend data.
 
 1. **Download the script:**
    ```bash
-   wget https://raw.githubusercontent.com/en4ble1337/pve-gpu-dashboard/main/pve-gpu-dashboard-mod_v3.0.sh
+   wget https://raw.githubusercontent.com/en4ble1337/proxmox-gpu-dashboard/main/pve-gpu-dashboard-mod_v3.0.sh
    chmod +x pve-gpu-dashboard-mod_v3.0.sh
    ```
 
@@ -351,5 +351,6 @@ See [CHANGELOG.md](CHANGELOG.md) for detailed version history.
 
 **Current Version:** v3.0
 **Last Updated:** 2025-12-26
+
 
 
