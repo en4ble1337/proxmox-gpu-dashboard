@@ -109,9 +109,14 @@ Best for users who want comprehensive GPU monitoring with historical trend data.
 
 ### Option 1: Installing v1.7 (Dashboard Only)
 
+> [!IMPORTANT]
+> The repository path is **`en4ble1337/proxmox-gpu-dashboard`**.
+> Older links that use **`en4ble1337/pve-gpu-dashboard`** return `404 Not Found`.
+
 1. **Download the script:**
    ```bash
-   wget https://raw.githubusercontent.com/en4ble1337/proxmox-gpu-dashboard/main/pve-gpu-dashboard-mod_v1.7.sh
+   wget -O pve-gpu-dashboard-mod_v1.7.sh \
+     https://raw.githubusercontent.com/en4ble1337/proxmox-gpu-dashboard/main/pve-gpu-dashboard-mod_v1.7.sh
    chmod +x pve-gpu-dashboard-mod_v1.7.sh
    ```
 
@@ -130,7 +135,8 @@ Best for users who want comprehensive GPU monitoring with historical trend data.
 
 1. **Download the script:**
    ```bash
-   wget https://raw.githubusercontent.com/en4ble1337/proxmox-gpu-dashboard/main/pve-gpu-dashboard-mod_v3.0.sh
+   wget -O pve-gpu-dashboard-mod_v3.0.sh \
+     https://raw.githubusercontent.com/en4ble1337/proxmox-gpu-dashboard/main/pve-gpu-dashboard-mod_v3.0.sh
    chmod +x pve-gpu-dashboard-mod_v3.0.sh
    ```
 
